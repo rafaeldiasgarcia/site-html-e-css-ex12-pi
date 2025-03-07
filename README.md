@@ -42,7 +42,7 @@ Embora este site cumpra os requisitos do Exercício 12, algumas melhorias poderi
 
 ## Autor
 
-[Rafael Dias Garica] - Aluno de Engenharia de Software - UNIFIO
+Rafael Dias Garica - Aluno de Engenharia de Software - UNIFIO
 
 ## Licença
 
